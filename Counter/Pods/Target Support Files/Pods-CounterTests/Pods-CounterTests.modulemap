@@ -1,0 +1,6 @@
+framework module Pods_CounterTests {
+  umbrella header "Pods-CounterTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
